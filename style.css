@@ -1,0 +1,173 @@
+*{
+    background-color: black;
+    margin-left: 10px;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0%;
+}
+
+
+#h{
+    color: blue;
+}
+
+
+#h:hover{
+    color: white;
+}
+
+
+h1:hover{
+    color: red;
+}
+
+#one{
+    text-align: center;
+}
+
+
+img{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 50%;
+    background-size: cover;
+    border: 4px solid white;
+    margin-bottom: 20px;
+}
+
+
+img:hover{
+    border: 10px solid;
+    border-color: darkred;
+}
+
+
+#three{
+    border: 4px solid white;
+    width: 400px;
+    height: 420px;
+    margin-left: 550px;
+
+}
+
+
+#two{
+    color: red;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    display: inline-flex;
+}
+
+
+#name{
+    color: white;
+    height: 20px;
+}
+
+#name:hover{
+    border: 2px solid white;
+}
+
+
+#email{
+    color: white;
+    height: 20px;
+}
+
+#email:hover{
+    border: 2px solid white;
+}
+
+
+#number{
+    color: white;
+    height: 20px;
+    margin-right: 38px;
+}
+
+#number:hover{
+    border: 2px solid white;
+}
+
+
+#password{
+    color: white;
+    height: 20px;
+    margin-right: 22px;
+}
+
+#password:hover{
+    border: 2px solid white;
+}
+
+
+#re-type-password{
+    color: white;
+    height: 20px;
+    margin-right: 2px;
+}
+
+#re-type-password:hover{
+    border: 2px solid white;
+}
+
+
+#button{
+    color: white;
+    height: 30px;
+    width: 50px;
+    border: 2px solid white;
+}
+
+#button:hover{
+    background-color: white;
+    color: black;
+}
+
+
+#reset{
+    color: white;
+    height: 30px;
+    width: 50px;
+    border: 2px solid white;
+    margin-left: 20px;
+}
+
+#reset:hover{
+    background-color: white;
+    color: black;
+}
+
+
+#captcha{
+    color: white;
+    height: 20px;
+    margin-right: 10px;
+}
+
+#captcha:hover{
+    border: 2px solid white;
+}
+
+
+#four{
+    height: 20px;
+    width: 80px;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    display: flex;
+    margin-left: 100px;
+}
+
+#four:hover{
+    border: 2px solid white;
+}
